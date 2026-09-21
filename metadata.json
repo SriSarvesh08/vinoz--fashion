@@ -1,0 +1,6 @@
+{
+  "name": "Vino'z Fashion",
+  "description": "Where Style Meets Elegance. Curated collection of premium women's accessories, fine jewelry, and stunning dresses with guest checkout and separate admin management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
